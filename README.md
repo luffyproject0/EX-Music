@@ -5,10 +5,10 @@
 ### Found on telegram [RioMusic](https://t.me/RioMusiccbot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/d2b539f061923cee37797.jpg">
+  <img src="https://telegra.ph/file/74efba42e9d9843d25036.jpg">
 </p>
 <p align="center">
-  <img src="https://telegra.ph/file/7cd6c44d1431b0fa9063b.jpg">
+  <img src="https://telegra.ph/file/1be2f4b83538a73ea4c3a.jpg">
 </p>
 <h2> Features </h2>
 
@@ -48,4 +48,4 @@ Get pyrogram (p)  `SESSION` from here:
 ## ⚡EX
 ## Repo by [Rio](https://t.me/Riio00)
 ## EX Update Channel [RioProjects](https://t.me/riobotsupport)
-## Join Group Support Telegram [EXSupport](https://t.me/siiniaja)
+## Join Group Support Telegram [RioGroupSupport](https://t.me/siiniaja)
