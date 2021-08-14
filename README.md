@@ -1,8 +1,8 @@
-<h1 align="centre">EX-Music ♫</h1>
+<h1 align="centre">Rio-Music ♫</h1>
 
 ### Repo for bots that can play songs in group voice chat telegram
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Found on telegram [EXMusic](https://t.me/EXMusiccbot)
+### Found on telegram [RioMusic](https://t.me/RioMusiccbot)
 
 <p align="center">
   <img src="https://telegra.ph/file/d2b539f061923cee37797.jpg">
@@ -46,6 +46,6 @@ Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/vckyou/PyrogramString)](https://repl.it/@vckyou/PyrogramString?lite=1&outputonly=1)
 
 ## ⚡EX
-## Repo by [EX](https://t.me/rizexx)
-## EX Update Channel [EXProjects](https://t.me/EXProjects)
-## Join Group Support Telegram [EXSupport](https://t.me/EXGroupSupport)
+## Repo by [Rio](https://t.me/Riio00)
+## EX Update Channel [RioProjects](https://t.me/riobotsupport)
+## Join Group Support Telegram [EXSupport](https://t.me/siiniaja)
